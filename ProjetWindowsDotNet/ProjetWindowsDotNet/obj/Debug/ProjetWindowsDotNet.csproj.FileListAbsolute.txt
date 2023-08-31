@@ -1,0 +1,14 @@
+C:\Users\Charles\source\repos\ProjetWindowsDotNet\ProjetWindowsDotNet\bin\Debug\ProjetWindowsDotNet.exe.config
+C:\Users\Charles\source\repos\ProjetWindowsDotNet\ProjetWindowsDotNet\bin\Debug\ProjetWindowsDotNet.exe
+C:\Users\Charles\source\repos\ProjetWindowsDotNet\ProjetWindowsDotNet\bin\Debug\ProjetWindowsDotNet.pdb
+C:\Users\Charles\source\repos\ProjetWindowsDotNet\ProjetWindowsDotNet\obj\Debug\ProjetWindowsDotNet.Properties.Resources.resources
+C:\Users\Charles\source\repos\ProjetWindowsDotNet\ProjetWindowsDotNet\obj\Debug\ProjetWindowsDotNet.csproj.GenerateResource.cache
+C:\Users\Charles\source\repos\ProjetWindowsDotNet\ProjetWindowsDotNet\obj\Debug\ProjetWindowsDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Charles\source\repos\ProjetWindowsDotNet\ProjetWindowsDotNet\obj\Debug\ProjetWindowsDotNet.exe
+C:\Users\Charles\source\repos\ProjetWindowsDotNet\ProjetWindowsDotNet\obj\Debug\ProjetWindowsDotNet.pdb
+C:\Users\Charles\source\repos\ProjetWindowsDotNet\ProjetWindowsDotNet\obj\Debug\ProjetWindowsDotNet.Menu.resources
+C:\Users\Charles\source\repos\ProjetWindowsDotNet\ProjetWindowsDotNet\obj\Debug\ProjetWindowsDotNet.csprojAssemblyReference.cache
+C:\Users\Charles\source\repos\ProjetWindowsDotNet\ProjetWindowsDotNet\obj\Debug\ProjetWindowsDotNet.ListesProduits.resources
+C:\Users\Charles\source\repos\ProjetWindowsDotNet\ProjetWindowsDotNet\obj\Debug\ProjetWindowsDotNet.Produits.resources
+C:\Users\Charles\source\repos\ProjetWindowsDotNet\ProjetWindowsDotNet\obj\Debug\ProjetWindowsDotNet.ListesClients.resources
+C:\Users\Charles\source\repos\ProjetWindowsDotNet\ProjetWindowsDotNet\obj\Debug\ProjetWindowsDotNet.ListesCommandes.resources
